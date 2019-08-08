@@ -16,6 +16,8 @@ Student
 # Installation Requirement
 1.  PHP and MySQL server (Xampp, Wamp, Lamp, etc)
 2.  Java compiler
+3.  digitalpersona u are u 4500 system installation
+4.  digitalpersona u are u 4500 java libraries
 3.  Text Editor (Sublime text etc)
 
 # How to install
