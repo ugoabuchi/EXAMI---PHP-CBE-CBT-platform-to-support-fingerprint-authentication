@@ -43,4 +43,4 @@ FINGERPRINT AUTHENTICATION
 13. Edit the connection functions in the regfing.java to suite your database connection
 14. RUN THE PROGRAM
 
-For enquireis and support contact me at Mathewfortune54@gmail.com or call +2349083273485
+For inquiries and support contact me at Mathewfortune54@gmail.com or call +2349083273485
